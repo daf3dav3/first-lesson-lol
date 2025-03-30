@@ -1,0 +1,11 @@
+print("Hello, world")
+print("first python code")
+print('first pyhton codes')
+print ("first python   coder code")
+
+print("who need's love")
+print("dafe\nDAVID")
+print("dafe is 30")
+print("dafe is 30")
+print("dafe\tdavid\ndave")
+print("this", "seems", "easy", 45)
